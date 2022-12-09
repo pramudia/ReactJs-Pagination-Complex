@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "name": "pramush",
+      "email": "pramush@gmail.com",
+      "phone": "1234567890",
+      "address": "Tanjungpinang",
+      "status": "Active"
+    },
+    {
+      "name": "aldo update",
+      "email": "aldo@gmail.com",
+      "phone": "124123",
+      "address": "Tanjungpinang",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "dedi",
+      "email": "dedi@gmail.com",
+      "phone": "5243312312",
+      "address": "Tanjungpinang",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "harvan",
+      "email": "harvan@gmail.com",
+      "phone": "363413144134",
+      "address": "Jakarta",
+      "status": "Inactive"
+    },
+    {
+      "id": 8,
+      "name": "rio",
+      "email": "rio@gmail.com",
+      "phone": "131342353",
+      "address": "Pekan",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "dito",
+      "email": "dito@gmail.com",
+      "phone": "12314535435",
+      "address": "Jakarta",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "mira",
+      "email": "mira@gmail.com",
+      "phone": "12412545",
+      "address": "bandung",
+      "status": "Inactive"
+    },
+    {
+      "id": 11,
+      "name": "yeni",
+      "email": "yeni@gmail.com",
+      "phone": "23424523",
+      "address": "Batam",
+      "status": "Active"
+    },
+    {
+      "id": 12,
+      "name": "elma",
+      "email": "elma@gmail.com",
+      "phone": "432423131",
+      "address": "Surakarta",
+      "status": "Active"
+    },
+    {
+      "name": "jhon doe",
+      "email": "eve.holt@reqres.in",
+      "phone": "1342310",
+      "address": "pekanbaru",
+      "status": "Inactive",
+      "id": 13
+    },
+    {
+      "name": "rara",
+      "email": "rara@gmail.com",
+      "phone": "1241312312",
+      "address": "pekanbaru",
+      "status": "Inactive",
+      "id": 14
+    },
+    {
+      "name": "dinda",
+      "email": "dinda@gmail.com",
+      "phone": "1411312321",
+      "address": "jawa",
+      "status": "Inactive",
+      "id": 15
+    },
+    {
+      "name": "jhosua",
+      "email": "jhosua@gmail.com",
+      "phone": "12312421321",
+      "address": "bandung",
+      "status": "",
+      "id": 16
+    }
+  ]
+}

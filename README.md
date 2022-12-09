@@ -22,5 +22,41 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://drive.google.com/drive/folders/1VLJTm4_gfpftZJBFPaxF2V5Lxzd71kQ1" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/46357602/206745772-ad7e85b1-587c-44d4-b61b-3dc2c2426110.png" width="900" height="450"/>
 </div>
+
+<!-- About Aplication -->
+---
+
+## :iphone: About Aplication :
+This pagination application is made using React JS with a JSON server which has several features
+1. user search
+2. sort by
+3. filters
+4. create users
+5. update users
+6. delete user
+
+<!-- how to run -->
+---
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm run server`
+to start you have to run the server first.
+after that
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+<!-- Note -->
+---
+
+#	:scroll: Note :
+if you are a professional please don't change anything that would result in a change by throwing an error. Thank you for visiting
+	:laughing:
+:satisfied:
